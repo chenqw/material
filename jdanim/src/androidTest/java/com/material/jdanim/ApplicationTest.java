@@ -1,4 +1,4 @@
-package material.com.material;
+package com.material.jdanim;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
